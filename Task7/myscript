@@ -1,0 +1,17 @@
+#!/bin/bash
+#comment
+count=1
+g++ -fopenmp main4.cpp -o main4
+#g++ -fopenmp main2.cpp -o main2
+#g++ -fopenmp main5.cpp -o main5
+g++ -fopenmp main7.cpp -o main7
+
+#echo $count
+for i in $(seq $count); do
+    #echo $i
+    export OMP_NUM_THREADS=2
+    ./main4
+    #./main2 >> test_output.txt
+    #./main5 >> test_output.txt
+    ./main7
+done

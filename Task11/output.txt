@@ -1,0 +1,63 @@
+static for reduction1.194
+dynamic for reduction4.6964
+guided for reduction1.19384
+
+static for reduction0.843248
+dynamic for reduction9.01792
+guided for reduction0.750061
+
+static for reduction0.5628
+dynamic for reduction8.28123
+guided for reduction0.461467
+
+static for reduction0.339387
+dynamic for reduction7.72315
+guided for reduction0.338656
+
+static for reduction0.271791
+dynamic for reduction7.10824
+guided for reduction0.27315
+
+static for reduction0.282268
+dynamic for reduction6.77987
+guided for reduction0.281659
+
+static for reduction0.243255
+dynamic for reduction6.05501
+guided for reduction0.210221
+
+static for reduction0.213505
+dynamic for reduction6.03024
+guided for reduction0.169201
+
+static for reduction0.23724
+dynamic for reduction6.00278
+guided for reduction0.176756
+
+static for reduction0.224637
+dynamic for reduction6.29343
+guided for reduction0.202797
+
+static for reduction0.203334
+dynamic for reduction6.25054
+guided for reduction0.203654
+
+static for reduction0.202295
+dynamic for reduction6.02102
+guided for reduction0.165573
+
+static for reduction0.1912
+dynamic for reduction6.03998
+guided for reduction0.16694
+
+static for reduction0.186301
+dynamic for reduction6.17754
+guided for reduction0.175345
+
+static for reduction0.203113
+dynamic for reduction6.02359
+guided for reduction0.164707
+
+static for reduction0.189628
+dynamic for reduction6.03584
+guided for reduction0.18418

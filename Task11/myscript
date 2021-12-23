@@ -1,0 +1,11 @@
+#!/bin/bash
+#comment
+count=1
+g++ -fopenmp main.cpp -o main
+#./main >> output.txt
+#echo $count
+for i in $(seq $count); do
+    echo $i
+    export OMP_NUM_THREADS=8
+    ./main >> output_dynamic2.txt
+done

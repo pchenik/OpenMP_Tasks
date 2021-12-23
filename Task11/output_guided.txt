@@ -1,0 +1,64 @@
+1
+static for random49429570383 9.77414
+dynamic for random98867689571 10.2379
+guided for random148301250157 9.80009
+2
+static for random51220999253 8.17891
+dynamic for random102455841174 9.32891
+guided for random153677532642 8.55591
+3
+static for random51119132716 6.51824
+dynamic for random102252798797 6.79545
+guided for random153396324409 5.84739
+4
+static for random50838384099 5.4892
+dynamic for random101696640863 5.60835
+guided for random152520168780 5.27112
+5
+static for random49505369082 4.8774
+dynamic for random99052740808 4.83833
+guided for random148536357834 4.25331
+6
+static for random51530305364 4.74402
+dynamic for random103096416746 4.75071
+guided for random154581629643 4.17286
+7
+static for random48643294369 4.55129
+dynamic for random97245768112 4.40748
+guided for random145830881134 3.98501
+8
+static for random50067457407 4.7567
+dynamic for random100033507706 4.74438
+guided for random149968626498 4.26119
+9
+static for random49287054820 4.70681
+dynamic for random98521445202 4.80022
+guided for random147723112019 4.24892
+10
+static for random49825846013 4.58952
+dynamic for random99640954435 4.59299
+guided for random149375575521 4.18646
+11
+static for random48691858206 4.71743
+dynamic for random97316554258 4.7252
+guided for random145973209835 4.23385
+12
+static for random51059325930 4.62898
+dynamic for random102139659891 4.684
+guided for random153162660740 4.19721
+13
+static for random50445412337 4.61669
+dynamic for random100837803663 4.59131
+guided for random151226708916 4.27606
+14
+static for random49380909324 4.62569
+dynamic for random98781188862 4.74424
+guided for random148078894517 4.22047
+15
+static for random49187195662 4.6077
+dynamic for random98397822277 4.74771
+guided for random147516251031 4.16715
+16
+static for random50011125067 4.61586
+dynamic for random100034922585 4.73231
+guided for random149981546718 4.21207

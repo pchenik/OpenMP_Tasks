@@ -1,0 +1,4 @@
+#!/bin/bash
+#generate matrix
+g++ -fopenmp generate.cpp -o generate
+./generate >> input5.txt

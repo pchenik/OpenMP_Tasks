@@ -1,0 +1,12 @@
+#!/bin/bash
+#comment
+g++ -fopenmp main.cpp -o main
+export OMP_SCHEDULE="STATIC"
+#echo "static\n" >> output2.txt
+./main >> output2.txt
+#export OMP_SCHEDULE="DYNAMIC"
+#echo "dynamic\n" >> output.txt
+#./main >> output.txt
+#export OMP_SCHEDULE="GUIDED"
+#echo "guided\n" >> output.txt
+#./main >> output.txt
